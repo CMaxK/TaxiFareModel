@@ -24,10 +24,5 @@ def clean_data(df, test=False):
     df = df[df["dropoff_longitude"].between(left=-74, right=-72.9)]
     return df
 
-# def holdout(X, y):
-
-#     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.1)
-#     return X_train, X_test, y_train, y_test
-
 if __name__ == '__main__':
     df = get_data()

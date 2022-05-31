@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ChrisKarg/code/CMaxK/TaxiFareModel/mlruns/1/bf1ec6f1eb3c4215b788bc723d1010b8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: bf1ec6f1eb3c4215b788bc723d1010b8
+run_uuid: bf1ec6f1eb3c4215b788bc723d1010b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1654005678652
+status: 1
+tags: []
+user_id: unknown
